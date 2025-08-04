@@ -1,6 +1,6 @@
 # SpamClassification
 
-**SpamClassification** is a Jupyter Notebook project that demonstrates how to build a text classification model to detect spam messages using Natural Language Processing (NLP) and machine learning techniques. The model is trained on a dataset of labeled SMS messages and uses a Multinomial Naive Bayes classifier for prediction.
+**SpamClassification** is a Python project that demonstrates how to build a text classification model to detect spam messages using Natural Language Processing (NLP) and machine learning techniques. The model is trained on a dataset of labeled SMS messages and uses a Multinomial Naive Bayes classifier for prediction.
 
 ## Features
 
